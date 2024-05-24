@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace studying_c_sharp_nisim_rachum.static_demo
 {
-    internal class Level2
+    public class Level2
     {
         public static void RunMe()
         {
