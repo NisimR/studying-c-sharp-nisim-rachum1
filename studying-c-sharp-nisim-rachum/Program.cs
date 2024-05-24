@@ -1,4 +1,5 @@
-﻿using studying_c_sharp_nisim_rachum.static_demo;
+﻿using studying_c_sharp_nisim_rachum.object_basics;
+using studying_c_sharp_nisim_rachum.static_demo;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,8 +12,10 @@ namespace studying_c_sharp_nisim_rachum
     {
         public static void Main(string[] args)
         {
-            Level1.RunMe();
+            //Level1.RunMe();
             //Level2.RunMe();
+
+            TestBasicObject.Demo();
         }
     }
 }
